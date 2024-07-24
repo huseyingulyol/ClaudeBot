@@ -1,0 +1,6 @@
+@ClaudeBot_HostAddress = http://localhost:5271
+
+GET {{ClaudeBot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
